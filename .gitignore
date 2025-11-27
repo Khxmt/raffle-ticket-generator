@@ -1,4 +1,5 @@
 debug.log
+outputs/*.pdf
 uploads/*.jpg
 uploads/*.png
 temp/
