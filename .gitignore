@@ -1,0 +1,4 @@
+debug.log
+uploads/*.jpg
+uploads/*.png
+temp/
